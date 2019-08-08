@@ -18,18 +18,18 @@ subtitle = ""
   icon = "basketball-ball"
   icon_pack = "fas"
   name = "Basketball"
-  description = "Spaninsh Coaching Level 2"
+  description = "Spanish Coaching Level 2"
   
 [[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "English"
-  description = "C1"
+  description = "Level C1"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Learning"
+  description = "Basic Level"
 
 +++
