@@ -46,10 +46,13 @@ subtitle = "Curriculum Vitae"
  # CSS class.
  # css_class = ""
 +++
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#    url = "files/cv.pdf"
+
+ # Link to a PDF of your resume/CV from the menu.
+ # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ #    url = "files/cv.pdf"
 
 [English CV](https://paypal.me/cushen)
+
 [Spanish CV](https://paypal.me/cushen)
+
 [CVN](https://paypal.me/cushen)
