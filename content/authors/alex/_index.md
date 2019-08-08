@@ -36,9 +36,6 @@ education:
   - course: BSc in Physical Activity and Sport Sciences
     institution: University of Vigo
     year: 2013
-  - course: Basketball Coaching Level 2
-    institution: IES Fermín Bouza Brey
-    year: 2017
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
