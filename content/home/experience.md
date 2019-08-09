@@ -38,7 +38,7 @@ date_format = "January 2006"
   date_start = "2018-01-22"
   date_end = "2018-05-08"
   description = """
-  Subject: Physical Activity and Recreational Sports. \n
+  Subject: Physical Activity and Recreational Sports. <br/>
   Degree: BSc Physical Activity and Sport Sciences.
   """
 
@@ -50,7 +50,7 @@ date_format = "January 2006"
   date_start = "2017-10-19"
   date_end = "2017-12-14"
   description = """
-  Subject: Motor Control and Learning in Physical Education and Sport.  
+  Subject: Motor Control and Learning in Physical Education and Sport. <br/>
   Degree: BSc Physical Activity and Sport Sciences.
   """
   
