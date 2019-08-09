@@ -137,6 +137,9 @@ sharing = true
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+  
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false
 
 # Configuration of project pages.
 [projects]
