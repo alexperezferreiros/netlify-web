@@ -2,13 +2,13 @@
 title: "Short- and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis"
 authors:
 - "**Pérez-Ferreirós A**"
-- Kalén A
-- Rey E
+- "Kalén A"
+- "Rey E"
 date: "2018-03-27T00:00:00Z"
 doi: "10.1177/1747954118765738"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2018-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,9 +23,9 @@ publication_short: "*International Journal of Sports Science and Coaching*"
 abstract: In 2010, one of the major rule changes in basketball came into effect. Including an extension of the 3-point line from 6.25 m to 6.75 m, changed shape of the 3-s area, the addition of no-charge semicircles, and modifications of the shot-clock. This study aimed to analyse if the rule modifications influenced the game-related statistics, both short- and mid-term using interrupted time series analysis, and if the rule changes had the same influence on different age groups and genders. The sample was composed by 5296 games from the European championships 2005–2016 for men and women in both senior and youth competitions. The standard game-related statistics were analysed. The game pace has increased or ceased to decrease after the rule modifications. The development towards a higher proportion of field goals being 3-pointers has continued, although the proportion was lowered directly after the rule modifications. The women senior seems to be the category where the rule modifications had the most effect on the continuous development. No general pattern of differences in effects between categories was found.
 
 # Summary. An optional shortened abstract.
-summary: *International Journal of Sports Science and Coaching (2018)*
+summary: "*International Journal of Sports Science and Coaching (2018)*"
 
-tags:
+tags: ""
 featured: false
 
 # links:
