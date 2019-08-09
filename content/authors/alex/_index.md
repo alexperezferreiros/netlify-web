@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alexandra Pérez Ferreiróss
+name: Alexandra Pérez Ferreirós
 
 # Username (this should match the folder name)
 authors:
