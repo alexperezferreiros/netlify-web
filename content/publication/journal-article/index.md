@@ -1,7 +1,6 @@
 ---
 title: "An example journal article"
 authors:
-- **Robert Ford**
 - Robert Fórd
 date: "2015-09-01T00:00:00Z"
 doi: ""
