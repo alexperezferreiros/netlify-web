@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2019-01-21"
   date_end = "2019-02-11"
   description = """
-  Subject: Knowledge of the Environment through Physical Activity in the School/Kindergarten. \\
+  Subject: Knowledge of the Environment through Physical Activity in the School/Kindergarten. <br/>
   Degree: BSc Early Childhood Education and Primary Education (Physical Education Area).
   """
 
