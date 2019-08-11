@@ -3,7 +3,7 @@ title: "Métodos y técnicas de investigación en el deporte"
 authors:
 - "**Pérez-Ferreirós A**"
 - "Padrón-Cabo A"
-date: "2017-06-13T00:00:00Z"
+date: "2018-02-09T00:00:00Z"
 doi: "10.1016/j.ajem.2017.06.028"
 
 # Schedule page publish date (NOT publication's date).
