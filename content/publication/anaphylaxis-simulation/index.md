@@ -70,4 +70,4 @@ slides: ""
 ---
 
 ### Citation
-**Pérez-Ferreirós, A.**, Kalén, A., & Rey, E. (2018). Short-and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis. *International Journal of Sports Science & Coaching, 13*(6), 1081--1089. https://doi.org/10.1177/1747954118765738
+Fernandez-Mendez, F., Saez-Gallego, N. M., Barcala-Furelos, R., Abelairas-Gomez, C., Padron-Cabo, A., **Perez-Ferreiros, A.**, Garcia-Magan, C., Moure-Gonzalez, J., Contreras-Jordan, O., & Rodriguez-Nuñez, A. (2017). Learning and Treatment of Anaphylaxis by Laypeople: A Simulation Study Using Pupilar Technology. *BioMed Research International*, 2017. https://doi.org/10.1155/2017/9837508
