@@ -69,5 +69,7 @@ projects: []
 slides: ""
 ---
 
+{{< figure src="header.png" title="Simulation scenario with eye-tracking technology." >}}
+
 ### Citation
 Fernandez-Mendez, F., Saez-Gallego, N. M., Barcala-Furelos, R., Abelairas-Gomez, C., Padron-Cabo, A., **Perez-Ferreiros, A.**, Garcia-Magan, C., Moure-Gonzalez, J., Contreras-Jordan, O., & Rodriguez-Nuñez, A. (2017). Learning and Treatment of Anaphylaxis by Laypeople: A Simulation Study Using Pupilar Technology. *BioMed Research International*, 2017. https://doi.org/10.1155/2017/9837508
