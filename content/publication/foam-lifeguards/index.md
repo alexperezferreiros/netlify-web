@@ -71,5 +71,7 @@ projects: []
 slides: ""
 ---
 
+{{< figure src="header.jpg" title="A caption" lightbox="true" >}}
+
 ### Citation
 Kalén, A., **Pérez-Ferreirós, A.**, Barcala-Furelos, R., Fernández-Méndez, M., Padrón-Cabo, A., Prieto, J. A., Rios-Ave, A., & Abelairas-Gómez, C. (2017). How can lifeguards recover better? A cross-over study comparing resting, running, and foam rolling. *American Journal of Emergency Medicine, 35*(12), 1887-1891. https://doi.org/10.1016/j.ajem.2017.06.028 
