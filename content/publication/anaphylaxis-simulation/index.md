@@ -1,5 +1,5 @@
 ---
-title: "Short- and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis"
+title: "Learning and treatment of anaphylaxis by laypeople: A simulation study using pupilar technology"
 authors:
 - "Fernández-Méndez F"
 - "Sáez-Gallego NM"
@@ -11,11 +11,11 @@ authors:
 - "Moure-González J"
 - "Contreras-Jordán O"
 - "Rodríguez-Nuñez A"
-date: "2018-03-27T00:00:00Z"
-doi: "10.1177/1747954118765738"
+date: "2017-05-30T00:00:00Z"
+doi: "10.1155/2017/9837508"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-03-27T00:00:00Z"
+publishDate: "2017-05-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
