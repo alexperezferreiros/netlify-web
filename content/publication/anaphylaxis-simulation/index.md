@@ -1,9 +1,16 @@
 ---
 title: "Short- and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis"
 authors:
+- "Fernández-Méndez F"
+- "Sáez-Gallego NM"
+- "Barcala-Furelos R"
+- "Abelairas-Gómez C"
+- "Padrón-Cabo A"
 - "**Pérez-Ferreirós A**"
-- "Kalén A"
-- "Rey E"
+- "García-Magán C"
+- "Moure-González J"
+- "Contreras-Jordán O"
+- "Rodríguez-Nuñez A"
 date: "2018-03-27T00:00:00Z"
 doi: "10.1177/1747954118765738"
 
