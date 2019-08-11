@@ -52,6 +52,10 @@ image:
   focal_point: ""
   preview_only: true
 
+header:
+  image: "foam-lifeguards/header.jpg"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
