@@ -1,8 +1,8 @@
 ---
 title: "Métodos y técnicas de investigación en el deporte"
 authors:
-- "**Pérez-Ferreirós A**"
-- "Padrón-Cabo A"
+- "**Pérez Ferreirós A**"
+- "Padrón Cabo A"
 date: "2018-02-09T00:00:00Z"
 doi: ""
 
