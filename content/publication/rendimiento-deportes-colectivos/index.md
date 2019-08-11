@@ -2,8 +2,8 @@
 title: "Análisis del rendimiento en deportes colectivos"
 authors:
 - "Rey Eiras E"
-- "Padrón-Cabo A"
-- "**Pérez-Ferreirós A**"
+- "Padrón Cabo A"
+- "**Pérez Ferreirós A**"
 - "Kalén A"
 date: "2019-03-06T00:00:00Z"
 doi: ""
