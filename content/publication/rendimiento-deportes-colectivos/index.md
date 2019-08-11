@@ -1,13 +1,15 @@
 ---
-title: "Métodos y técnicas de investigación en el deporte"
+title: "Análisis del rendimiento en deportes colectivos"
 authors:
-- "**Pérez-Ferreirós A**"
+- "Rey Eiras E"
 - "Padrón-Cabo A"
-date: "2018-02-09T00:00:00Z"
+- "**Pérez-Ferreirós A**"
+- "Kalén A"
+date: "2019-03-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-02-09T00:00:00Z"
+publishDate: "2019-03-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +24,7 @@ publication_short: "Fundación Universitaria Iberoamericana"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*Fundación Universitaria Iberoamericana (2018)*"
+summary: "*Fundación Universitaria Iberoamericana (2019)*"
 
 tags: ""
 featured: false
@@ -62,4 +64,4 @@ slides: ""
 ---
 
 ### Citation
-**Pérez Ferreirós, A.**, & Padrón Cabo, A. (2018). *Métodos y técnicas de investigación en el deporte.* Barcelona: Fundación Universitaria Iberoamericana. ISBN: 978-84-9079-251-3
+Rey Eiras, E., Padrón Cabo, A., **Pérez Ferreirós, A.**, & Kalén, A. (2018). *Análisis del rendimiento en deportes colectivos.* Barcelona: Fundación Universitaria Iberoamericana. ISBN: 978-84-9079-529-3
