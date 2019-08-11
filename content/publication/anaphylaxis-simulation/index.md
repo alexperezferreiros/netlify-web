@@ -1,21 +1,14 @@
 ---
-title: "Learning and treatment of anaphylaxis by laypeople: A simulation study using pupilar technology"
+title: "Short- and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis"
 authors:
-- "Fernández-Méndez F"
-- "Sáez-Gallego NM"
-- "Barcala-Furelos R"
-- "Abelairas-Gómez C"
-- "Padrón-Cabo A"
 - "**Pérez-Ferreirós A**"
-- "García-Magán C"
-- "Moure-González J"
-- "Contreras-Jordán O"
-- "Rodríguez-Nuñez A"
-date: "2017-05-30T00:00:00Z"
-doi: "10.1155/2017/9837508"
+- "Kalén A"
+- "Rey E"
+date: "2018-03-27T00:00:00Z"
+doi: "10.1177/1747954118765738"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-05-30T00:00:00Z"
+publishDate: "2018-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,13 +17,13 @@ publishDate: "2017-05-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BioMed Research International"
-publication_short: "*BioMed Research International*"
+publication: "International Journal of Sports Science and Coaching"
+publication_short: "*International Journal of Sports Science and Coaching*"
 
-abstract: An anaphylactic shock is a time-critical emergency situation. The decision-making during emergencies is an important responsibility but difficult to study. Eye-tracking technology allows us to identify visual patterns involved in the decision-making. The aim of this pilot study was to evaluate two training models for the recognition and treatment of anaphylaxis by laypeople, based on expert assessment and eye-tracking technology. A cross-sectional quasi-experimental simulation study was made to evaluate the identification and treatment of anaphylaxis. 50 subjects were randomly assigned to four groups: three groups watching different training videos with content supervised by sanitary personnel and one control group who received face-to-face training during paediatric practice. To evaluate the learning, a simulation scenario represented by an anaphylaxis’ victim was designed. A device capturing eye movement as well as expert valuation was used to evaluate the performance. The subjects that underwent paediatric face-to-face training achieved better and faster recognition of the anaphylaxis. They also used the adrenaline injector with better precision and less mistakes, and they needed a smaller number of visual fixations to recognise the anaphylaxis and to make the decision to inject epinephrine. Analysing the different video formats, mixed results were obtained. Therefore, they should be tested to evaluate their usability before implementation.
+abstract: In 2010, one of the major rule changes in basketball came into effect. Including an extension of the 3-point line from 6.25 m to 6.75 m, changed shape of the 3-s area, the addition of no-charge semicircles, and modifications of the shot-clock. This study aimed to analyse if the rule modifications influenced the game-related statistics, both short- and mid-term using interrupted time series analysis, and if the rule changes had the same influence on different age groups and genders. The sample was composed by 5296 games from the European championships 2005–2016 for men and women in both senior and youth competitions. The standard game-related statistics were analysed. The game pace has increased or ceased to decrease after the rule modifications. The development towards a higher proportion of field goals being 3-pointers has continued, although the proportion was lowered directly after the rule modifications. The women senior seems to be the category where the rule modifications had the most effect on the continuous development. No general pattern of differences in effects between categories was found.
 
 # Summary. An optional shortened abstract.
-summary: "*BioMed Research International (2017)*"
+summary: "*International Journal of Sports Science and Coaching (2018)*"
 
 tags: ""
 featured: false
@@ -70,4 +63,4 @@ slides: ""
 ---
 
 ### Citation
-Fernandez-Mendez, F., Saez-Gallego, N. M., Barcala-Furelos, R., Abelairas-Gomez, C., Padron-Cabo, A., **Perez-Ferreiros, A.**, Garcia-Magan, C., Moure-Gonzalez, J., Contreras-Jordan, O., & Rodriguez-Nuñez, A. (2017). Learning and Treatment of Anaphylaxis by Laypeople: A Simulation Study Using Pupilar Technology. *BioMed Research International*, 2017. https://doi.org/10.1155/2017/9837508
+**Pérez-Ferreirós, A.**, Kalén, A., & Rey, E. (2018). Short-and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis. *International Journal of Sports Science & Coaching, 13*(6), 1081--1089. https://doi.org/10.1177/1747954118765738
