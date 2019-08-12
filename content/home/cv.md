@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "CV"
-subtitle = "Curriculum Vitae"
+title = "Curriculum Vitae"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,14 +45,14 @@ subtitle = "Curriculum Vitae"
  
  # CSS class.
  # css_class = ""
+ 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#    url = "files/cv.pdf"
 +++
 
- # Link to a PDF of your resume/CV from the menu.
- # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- #    url = "files/cv.pdf"
+[English CV](cv/CV-English.pdf)
 
-[English CV](https://paypal.me/cushen)
+[Spanish CV](cv/CV-Spanish.pdf)
 
-[Spanish CV](https://paypal.me/cushen)
-
-[CVN](https://paypal.me/cushen)
+[CVN](cv/CVN.pdf)
